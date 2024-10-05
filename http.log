@@ -1,0 +1,638 @@
+200 {"id":6250011479,"firstName":"Chai Wibowo","lastName":"","balance":8,"repaints":0,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"bronze","squad":{"id":null,"name":null,"slug":null,"logo":null,"templateX":null,"templateY":null,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0,"speedPerSecond":0,"fromStart":1727960349,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":0,"userBalance":8,"activated":true,"league":"bronze","charges":5,"maxCharges":5,"reChargeTimer":0,"reChargeSpeed":600000,"goods":{},"tasks":{}}
+
+200 {"balance":9}
+
+200 {"balance":10}
+
+200 {"balance":11}
+
+200 {"balance":12}
+
+200 {"balance":13}
+
+200 {"coins":0.00006066666666666666,"speedPerSecond":0.000005833333333333333,"fromStart":16,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":5,"userBalance":13,"activated":true,"league":"bronze","charges":0,"maxCharges":5,"reChargeTimer":583704,"reChargeSpeed":600000,"goods":{},"tasks":{}}
+
+500 can't claim mining. Try again in 3584 seconds
+200 {"id":6583224984,"firstName":"user 36","lastName":"","balance":219,"repaints":7,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"bronze","squad":{"id":716019,"name":"IDWR | Airdrop \u0026 Crypto Talk","slug":"Idwroff","logo":"https://cdn.joincommunity.xyz/api-clicker/tg/team-avatars/Idwroff_1727619023833.jpg","templateX":414,"templateY":261,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0,"speedPerSecond":0.000008166666666666666,"fromStart":155,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":7,"userBalance":347.0336,"activated":true,"league":"bronze","charges":7,"maxCharges":7,"reChargeTimer":0,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":349.0336}
+
+200 {"balance":351.0336}
+
+200 {"balance":353.0336}
+
+200 {"balance":355.0336}
+
+200 {"balance":357.0336}
+
+200 {"balance":359.0336}
+
+200 {"balance":361.0336}
+
+200 {"coins":0.0026541666666666662,"speedPerSecond":0.00001633333333333333,"fromStart":178,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":14,"userBalance":361.0336,"activated":true,"league":"bronze","charges":0,"maxCharges":7,"reChargeTimer":517238,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"coins":0,"speedPerSecond":0.00001633333333333333,"fromStart":0,"fromUpdate":0,"maxMiningTime":28800,"claimed":0.0029236666666666664,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":0,"userBalance":0,"activated":true,"league":"silver","charges":0,"maxCharges":0,"reChargeTimer":0,"reChargeSpeed":0,"goods":null,"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"id":7034523327,"firstName":"user 38","lastName":"not","balance":219,"repaints":7,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"bronze","squad":{"id":716019,"name":"IDWR | Airdrop \u0026 Crypto Talk","slug":"Idwroff","logo":"https://cdn.joincommunity.xyz/api-clicker/tg/team-avatars/Idwroff_1727619023833.jpg","templateX":null,"templateY":null,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0,"speedPerSecond":0.000008166666666666666,"fromStart":1170,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":7,"userBalance":283.0672,"activated":true,"league":"bronze","charges":7,"maxCharges":7,"reChargeTimer":0,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":285.0672}
+
+200 {"balance":287.0672}
+
+200 {"balance":289.0672}
+
+200 {"balance":291.0672}
+
+200 {"balance":293.0672}
+
+200 {"balance":295.0672}
+
+200 {"balance":297.0672}
+
+200 {"coins":0.018078666666666663,"speedPerSecond":0.00001633333333333333,"fromStart":1196,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":14,"userBalance":297.0672,"activated":true,"league":"bronze","charges":0,"maxCharges":7,"reChargeTimer":514009,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"coins":0,"speedPerSecond":0.00001633333333333333,"fromStart":0,"fromUpdate":0,"maxMiningTime":28800,"claimed":0.019534666666666665,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":0,"userBalance":0,"activated":true,"league":"silver","charges":0,"maxCharges":0,"reChargeTimer":0,"reChargeSpeed":0,"goods":null,"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"id":6600769448,"firstName":"Vira Xiw","lastName":"","balance":8,"repaints":0,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"bronze","squad":{"id":716019,"name":"IDWR | Airdrop \u0026 Crypto Talk","slug":"Idwroff","logo":"https://cdn.joincommunity.xyz/api-clicker/tg/team-avatars/Idwroff_1727619023833.jpg","templateX":414,"templateY":261,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0,"speedPerSecond":0,"fromStart":1728131276,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":4,"reChargeSpeed":3},"repaintsTotal":0,"userBalance":133,"activated":true,"league":"bronze","charges":7,"maxCharges":7,"reChargeTimer":0,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":135.5}
+
+200 {"balance":138}
+
+200 {"balance":140.5}
+
+200 {"balance":143}
+
+200 {"balance":145.5}
+
+200 {"balance":148}
+
+200 {"balance":150.5}
+
+200 {"coins":0.000147,"speedPerSecond":0.000008166666666666666,"fromStart":25,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":4,"reChargeSpeed":3},"repaintsTotal":7,"userBalance":150.5,"activated":true,"league":"bronze","charges":0,"maxCharges":7,"reChargeTimer":515305,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+500 can't claim mining. Try again in 3575 seconds
+200 {"id":6815005262,"firstName":"Fifa Yulianto","lastName":"not","balance":8,"repaints":0,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"bronze","squad":{"id":716019,"name":"IDWR | Airdrop \u0026 Crypto Talk","slug":"Idwroff","logo":"https://cdn.joincommunity.xyz/api-clicker/tg/team-avatars/Idwroff_1727619023833.jpg","templateX":414,"templateY":261,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0,"speedPerSecond":0.000002333333333333333,"fromStart":772058,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":7,"userBalance":347,"activated":true,"league":"bronze","charges":7,"maxCharges":7,"reChargeTimer":0,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":349}
+
+200 {"balance":351}
+
+200 {"balance":353}
+
+200 {"balance":355}
+
+200 {"balance":357}
+
+200 {"balance":359}
+
+200 {"balance":361}
+
+200 {"coins":0.0672,"speedPerSecond":0.000002333333333333333,"fromStart":772082,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":14,"userBalance":361,"activated":true,"league":"bronze","charges":0,"maxCharges":7,"reChargeTimer":516451,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"coins":0,"speedPerSecond":0.00001633333333333333,"fromStart":0,"fromUpdate":0,"maxMiningTime":28800,"claimed":0.0672,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":0,"userBalance":0,"activated":true,"league":"silver","charges":0,"maxCharges":0,"reChargeTimer":0,"reChargeSpeed":0,"goods":null,"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"id":6527365840,"firstName":"Mufeji Jib","lastName":"","balance":8,"repaints":0,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"bronze","squad":{"id":null,"name":null,"slug":null,"logo":null,"templateX":null,"templateY":null,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0,"speedPerSecond":0.0000011666666666666666,"fromStart":712756,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":5,"userBalance":13,"activated":true,"league":"bronze","charges":5,"maxCharges":5,"reChargeTimer":0,"reChargeSpeed":600000,"goods":{},"tasks":{}}
+
+200 {"balance":14}
+
+200 {"balance":15}
+
+200 {"balance":16}
+
+200 {"balance":17}
+
+200 {"balance":18}
+
+200 {"coins":0.0336,"speedPerSecond":0.0000011666666666666666,"fromStart":712773,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":10,"userBalance":18,"activated":true,"league":"bronze","charges":0,"maxCharges":5,"reChargeTimer":582923,"reChargeSpeed":600000,"goods":{},"tasks":{}}
+
+200 {"coins":0,"speedPerSecond":0.000011666666666666666,"fromStart":0,"fromUpdate":0,"maxMiningTime":28800,"claimed":0.0336,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":0,"userBalance":0,"activated":true,"league":"silver","charges":0,"maxCharges":0,"reChargeTimer":0,"reChargeSpeed":0,"goods":null,"tasks":{}}
+
+200 {"id":6473440037,"firstName":"Oni Mama","lastName":"not","balance":8,"repaints":0,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"bronze","squad":{"id":716019,"name":"IDWR | Airdrop \u0026 Crypto Talk","slug":"Idwroff","logo":"https://cdn.joincommunity.xyz/api-clicker/tg/team-avatars/Idwroff_1727619023833.jpg","templateX":414,"templateY":261,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0,"speedPerSecond":0,"fromStart":1728131504,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":4,"reChargeSpeed":3},"repaintsTotal":0,"userBalance":133,"activated":true,"league":"bronze","charges":7,"maxCharges":7,"reChargeTimer":0,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":135.5}
+
+200 {"balance":138}
+
+200 {"balance":140.5}
+
+200 {"balance":143}
+
+200 {"balance":145.5}
+
+200 {"balance":148}
+
+200 {"balance":150.5}
+
+200 {"coins":0.000154,"speedPerSecond":0.000008166666666666666,"fromStart":26,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":4,"reChargeSpeed":3},"repaintsTotal":7,"userBalance":150.5,"activated":true,"league":"bronze","charges":0,"maxCharges":7,"reChargeTimer":514196,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+500 can't claim mining. Try again in 3573 seconds
+200 {"id":7320076449,"firstName":"Siti Putra","lastName":"","balance":8,"repaints":0,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"bronze","squad":{"id":716019,"name":"IDWR | Airdrop \u0026 Crypto Talk","slug":"Idwroff","logo":"https://cdn.joincommunity.xyz/api-clicker/tg/team-avatars/Idwroff_1727619023833.jpg","templateX":414,"templateY":261,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0,"speedPerSecond":0,"fromStart":1728131563,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":4,"reChargeSpeed":3},"repaintsTotal":0,"userBalance":133,"activated":true,"league":"bronze","charges":7,"maxCharges":7,"reChargeTimer":0,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":135.5}
+
+200 {"balance":138}
+
+200 {"balance":140.5}
+
+200 {"balance":143}
+
+200 {"balance":145.5}
+
+200 {"balance":148}
+
+200 {"balance":150.5}
+
+200 {"coins":0.000147,"speedPerSecond":0.000008166666666666666,"fromStart":24,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":4,"reChargeSpeed":3},"repaintsTotal":7,"userBalance":150.5,"activated":true,"league":"bronze","charges":0,"maxCharges":7,"reChargeTimer":515553,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+500 can't claim mining. Try again in 3575 seconds
+200 {"id":6457032721,"firstName":"Eka Zan","lastName":"","balance":8,"repaints":0,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"bronze","squad":{"id":716019,"name":"IDWR | Airdrop \u0026 Crypto Talk","slug":"Idwroff","logo":"https://cdn.joincommunity.xyz/api-clicker/tg/team-avatars/Idwroff_1727619023833.jpg","templateX":414,"templateY":261,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0,"speedPerSecond":0,"fromStart":1728131623,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":0,"userBalance":648,"activated":true,"league":"bronze","charges":5,"maxCharges":5,"reChargeTimer":0,"reChargeSpeed":600000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":649}
+
+200 {"balance":650}
+
+200 {"balance":651}
+
+200 {"balance":652}
+
+200 {"balance":653}
+
+200 {"coins":0.00006533333333333333,"speedPerSecond":0.000005833333333333333,"fromStart":18,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":5,"userBalance":653,"activated":true,"league":"bronze","charges":0,"maxCharges":5,"reChargeTimer":582103,"reChargeSpeed":600000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+500 can't claim mining. Try again in 3582 seconds
+200 {"id":6250011479,"firstName":"Chai Wibowo","lastName":"","balance":8,"repaints":0,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"bronze","squad":{"id":null,"name":null,"slug":null,"logo":null,"templateX":null,"templateY":null,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0.00006066666666666666,"speedPerSecond":0.000005833333333333333,"fromStart":171351,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":5,"userBalance":525,"activated":true,"league":"bronze","charges":5,"maxCharges":5,"reChargeTimer":0,"reChargeSpeed":600000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":526}
+
+200 {"balance":527}
+
+200 {"balance":528}
+
+200 {"balance":529}
+
+200 {"balance":530}
+
+200 {"coins":0.16799999999999998,"speedPerSecond":0.000005833333333333333,"fromStart":171371,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":10,"userBalance":530,"activated":true,"league":"bronze","charges":0,"maxCharges":5,"reChargeTimer":580744,"reChargeSpeed":600000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"coins":0,"speedPerSecond":0.000011666666666666666,"fromStart":0,"fromUpdate":0,"maxMiningTime":28800,"claimed":0.16799999999999998,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":0,"userBalance":0,"activated":true,"league":"silver","charges":0,"maxCharges":0,"reChargeTimer":0,"reChargeSpeed":0,"goods":null,"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"id":6583224984,"firstName":"user 36","lastName":"not","balance":361,"repaints":14,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"silver","squad":{"id":716019,"name":"IDWR | Airdrop \u0026 Crypto Talk","slug":"Idwroff","logo":"https://cdn.joincommunity.xyz/api-clicker/tg/team-avatars/Idwroff_1727619023833.jpg","templateX":414,"templateY":261,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0,"speedPerSecond":0.00001633333333333333,"fromStart":4226,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":14,"userBalance":361.03652366666665,"activated":true,"league":"silver","charges":7,"maxCharges":7,"reChargeTimer":0,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":363.03652366667}
+
+200 {"balance":365.03652366667}
+
+200 {"balance":367.03652366667}
+
+200 {"balance":369.03652366667}
+
+200 {"balance":371.03652366667}
+
+200 {"balance":373.03652366667}
+
+200 {"balance":375.03652366667}
+
+200 {"coins":0.09907333333333333,"speedPerSecond":0.0000245,"fromStart":4249,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":21,"userBalance":375.03652366666665,"activated":true,"league":"silver","charges":0,"maxCharges":7,"reChargeTimer":517546,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"coins":0,"speedPerSecond":0.0000245,"fromStart":0,"fromUpdate":0,"maxMiningTime":28800,"claimed":0.1041005,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":0,"userBalance":0,"activated":true,"league":"silver","charges":0,"maxCharges":0,"reChargeTimer":0,"reChargeSpeed":0,"goods":null,"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"id":7034523327,"firstName":"user 38","lastName":"not","balance":297,"repaints":14,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"silver","squad":{"id":716019,"name":"IDWR | Airdrop \u0026 Crypto Talk","slug":"Idwroff","logo":"https://cdn.joincommunity.xyz/api-clicker/tg/team-avatars/Idwroff_1727619023833.jpg","templateX":414,"templateY":261,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0,"speedPerSecond":0.00001633333333333333,"fromStart":4202,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":14,"userBalance":297.0867346666667,"activated":true,"league":"silver","charges":7,"maxCharges":7,"reChargeTimer":0,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":299.08673466667}
+
+200 {"balance":301.08673466667}
+
+200 {"balance":303.08673466667}
+
+200 {"balance":305.08673466667}
+
+200 {"balance":307.08673466667}
+
+200 {"balance":309.08673466667}
+
+200 {"balance":311.08673466667}
+
+200 {"coins":0.09851333333333333,"speedPerSecond":0.0000245,"fromStart":4225,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":21,"userBalance":311.0867346666667,"activated":true,"league":"silver","charges":0,"maxCharges":7,"reChargeTimer":517354,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"coins":0,"speedPerSecond":0.0000245,"fromStart":0,"fromUpdate":0,"maxMiningTime":28800,"claimed":0.1035125,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":0,"userBalance":0,"activated":true,"league":"silver","charges":0,"maxCharges":0,"reChargeTimer":0,"reChargeSpeed":0,"goods":null,"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"id":6600769448,"firstName":"Vira Xiw","lastName":"not","balance":8,"repaints":0,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"bronze","squad":{"id":716019,"name":"IDWR | Airdrop \u0026 Crypto Talk","slug":"Idwroff","logo":"https://cdn.joincommunity.xyz/api-clicker/tg/team-avatars/Idwroff_1727619023833.jpg","templateX":414,"templateY":261,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0.000147,"speedPerSecond":0.000008166666666666666,"fromStart":4241,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":4,"reChargeSpeed":3},"repaintsTotal":7,"userBalance":150.5,"activated":true,"league":"bronze","charges":7,"maxCharges":7,"reChargeTimer":0,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":153}
+
+200 {"balance":155.5}
+
+200 {"balance":158}
+
+200 {"balance":160.5}
+
+200 {"balance":163}
+
+200 {"balance":165.5}
+
+200 {"balance":168}
+
+200 {"coins":0.06462516666666666,"speedPerSecond":0.00001633333333333333,"fromStart":4265,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":4,"reChargeSpeed":3},"repaintsTotal":14,"userBalance":168,"activated":true,"league":"bronze","charges":0,"maxCharges":7,"reChargeTimer":516762,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"coins":0,"speedPerSecond":0.00001633333333333333,"fromStart":0,"fromUpdate":0,"maxMiningTime":28800,"claimed":0.06966166666666666,"boosts":{"energyLimit":3,"paintReward":4,"reChargeSpeed":3},"repaintsTotal":0,"userBalance":0,"activated":true,"league":"silver","charges":0,"maxCharges":0,"reChargeTimer":0,"reChargeSpeed":0,"goods":null,"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"id":6815005262,"firstName":"Fifa Yulianto","lastName":"not","balance":361,"repaints":14,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"silver","squad":{"id":716019,"name":"IDWR | Airdrop \u0026 Crypto Talk","slug":"Idwroff","logo":"https://cdn.joincommunity.xyz/api-clicker/tg/team-avatars/Idwroff_1727619023833.jpg","templateX":414,"templateY":261,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0,"speedPerSecond":0.00001633333333333333,"fromStart":4218,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":14,"userBalance":361.0672,"activated":true,"league":"silver","charges":7,"maxCharges":7,"reChargeTimer":0,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":363.0672}
+
+200 {"balance":365.0672}
+
+200 {"balance":367.0672}
+
+200 {"balance":369.0672}
+
+200 {"balance":371.0672}
+
+200 {"balance":373.0672}
+
+200 {"balance":375.0672}
+
+200 {"coins":0.09888666666666666,"speedPerSecond":0.0000245,"fromStart":4241,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":21,"userBalance":375.0672,"activated":true,"league":"silver","charges":0,"maxCharges":7,"reChargeTimer":517601,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"coins":0,"speedPerSecond":0.0000245,"fromStart":0,"fromUpdate":0,"maxMiningTime":28800,"claimed":0.1039045,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":0,"userBalance":0,"activated":true,"league":"silver","charges":0,"maxCharges":0,"reChargeTimer":0,"reChargeSpeed":0,"goods":null,"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"id":6527365840,"firstName":"Mufeji Jib","lastName":"not","balance":18,"repaints":10,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"silver","squad":{"id":null,"name":null,"slug":null,"logo":null,"templateX":null,"templateY":null,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0,"speedPerSecond":0.000011666666666666666,"fromStart":4213,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":10,"userBalance":18.0336,"activated":true,"league":"silver","charges":5,"maxCharges":5,"reChargeTimer":0,"reChargeSpeed":600000,"goods":{},"tasks":{}}
+
+200 {"balance":19.0336}
+
+200 {"balance":20.0336}
+
+200 {"balance":21.0336}
+
+200 {"balance":22.0336}
+
+200 {"balance":23.0336}
+
+200 {"coins":0.06902466666666666,"speedPerSecond":0.0000175,"fromStart":4229,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":15,"userBalance":23.0336,"activated":true,"league":"silver","charges":0,"maxCharges":5,"reChargeTimer":583953,"reChargeSpeed":600000,"goods":{},"tasks":{}}
+
+200 {"coins":0,"speedPerSecond":0.0000175,"fromStart":0,"fromUpdate":0,"maxMiningTime":28800,"claimed":0.07400749999999999,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":0,"userBalance":0,"activated":true,"league":"silver","charges":0,"maxCharges":0,"reChargeTimer":0,"reChargeSpeed":0,"goods":null,"tasks":{}}
+
+200 {"id":6473440037,"firstName":"Oni Mama","lastName":"not","balance":8,"repaints":0,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"bronze","squad":{"id":716019,"name":"IDWR | Airdrop \u0026 Crypto Talk","slug":"Idwroff","logo":"https://cdn.joincommunity.xyz/api-clicker/tg/team-avatars/Idwroff_1727619023833.jpg","templateX":414,"templateY":261,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0.000154,"speedPerSecond":0.000008166666666666666,"fromStart":4230,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":4,"reChargeSpeed":3},"repaintsTotal":7,"userBalance":150.5,"activated":true,"league":"bronze","charges":7,"maxCharges":7,"reChargeTimer":0,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":153}
+
+200 {"balance":155.5}
+
+200 {"balance":158}
+
+200 {"balance":160.5}
+
+200 {"balance":163}
+
+200 {"balance":165.5}
+
+200 {"balance":168}
+
+200 {"coins":0.06444316666666666,"speedPerSecond":0.00001633333333333333,"fromStart":4253,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":4,"reChargeSpeed":3},"repaintsTotal":14,"userBalance":168,"activated":true,"league":"bronze","charges":0,"maxCharges":7,"reChargeTimer":517623,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"coins":0,"speedPerSecond":0.00001633333333333333,"fromStart":0,"fromUpdate":0,"maxMiningTime":28800,"claimed":0.06946566666666666,"boosts":{"energyLimit":3,"paintReward":4,"reChargeSpeed":3},"repaintsTotal":0,"userBalance":0,"activated":true,"league":"silver","charges":0,"maxCharges":0,"reChargeTimer":0,"reChargeSpeed":0,"goods":null,"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"id":7320076449,"firstName":"Siti Putra","lastName":"not","balance":8,"repaints":0,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"bronze","squad":{"id":716019,"name":"IDWR | Airdrop \u0026 Crypto Talk","slug":"Idwroff","logo":"https://cdn.joincommunity.xyz/api-clicker/tg/team-avatars/Idwroff_1727619023833.jpg","templateX":414,"templateY":261,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0.000147,"speedPerSecond":0.000008166666666666666,"fromStart":4232,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":4,"reChargeSpeed":3},"repaintsTotal":7,"userBalance":150.5,"activated":true,"league":"bronze","charges":7,"maxCharges":7,"reChargeTimer":0,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":153}
+
+200 {"balance":155.5}
+
+200 {"balance":158}
+
+200 {"balance":160.5}
+
+200 {"balance":163}
+
+200 {"balance":165.5}
+
+200 {"balance":168}
+
+200 {"coins":0.06447349999999999,"speedPerSecond":0.00001633333333333333,"fromStart":4255,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":4,"reChargeSpeed":3},"repaintsTotal":14,"userBalance":168,"activated":true,"league":"bronze","charges":0,"maxCharges":7,"reChargeTimer":517616,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"coins":0,"speedPerSecond":0.00001633333333333333,"fromStart":0,"fromUpdate":0,"maxMiningTime":28800,"claimed":0.06949833333333333,"boosts":{"energyLimit":3,"paintReward":4,"reChargeSpeed":3},"repaintsTotal":0,"userBalance":0,"activated":true,"league":"silver","charges":0,"maxCharges":0,"reChargeTimer":0,"reChargeSpeed":0,"goods":null,"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"id":6457032721,"firstName":"Eka Zan","lastName":"not","balance":8,"repaints":0,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"bronze","squad":{"id":716019,"name":"IDWR | Airdrop \u0026 Crypto Talk","slug":"Idwroff","logo":"https://cdn.joincommunity.xyz/api-clicker/tg/team-avatars/Idwroff_1727619023833.jpg","templateX":414,"templateY":261,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0.00006533333333333333,"speedPerSecond":0.000005833333333333333,"fromStart":4230,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":5,"userBalance":653,"activated":true,"league":"bronze","charges":5,"maxCharges":5,"reChargeTimer":0,"reChargeSpeed":600000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":654}
+
+200 {"balance":655}
+
+200 {"balance":656}
+
+200 {"balance":657}
+
+200 {"balance":658}
+
+200 {"coins":0.0445515,"speedPerSecond":0.000011666666666666666,"fromStart":4247,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":10,"userBalance":658,"activated":true,"league":"bronze","charges":0,"maxCharges":5,"reChargeTimer":584047,"reChargeSpeed":600000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"coins":0,"speedPerSecond":0.000011666666666666666,"fromStart":0,"fromUpdate":0,"maxMiningTime":28800,"claimed":0.04954833333333333,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":0,"userBalance":0,"activated":true,"league":"silver","charges":0,"maxCharges":0,"reChargeTimer":0,"reChargeSpeed":0,"goods":null,"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"id":6250011479,"firstName":"Chai Wibowo","lastName":"not","balance":530,"repaints":10,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"silver","squad":{"id":null,"name":null,"slug":null,"logo":null,"templateX":null,"templateY":null,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0,"speedPerSecond":0.000011666666666666666,"fromStart":4195,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":10,"userBalance":530.168,"activated":true,"league":"silver","charges":5,"maxCharges":5,"reChargeTimer":0,"reChargeSpeed":600000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":531.168}
+
+200 {"balance":532.168}
+
+200 {"balance":533.168}
+
+200 {"balance":534.168}
+
+200 {"balance":535.168}
+
+200 {"coins":0.06874699999999999,"speedPerSecond":0.0000175,"fromStart":4213,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":15,"userBalance":535.168,"activated":true,"league":"silver","charges":0,"maxCharges":5,"reChargeTimer":583141,"reChargeSpeed":600000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"coins":0,"speedPerSecond":0.0000175,"fromStart":0,"fromUpdate":0,"maxMiningTime":28800,"claimed":0.07372749999999999,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":0,"userBalance":0,"activated":true,"league":"silver","charges":0,"maxCharges":0,"reChargeTimer":0,"reChargeSpeed":0,"goods":null,"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"id":6583224984,"firstName":"user 36","lastName":"not","balance":375,"repaints":21,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"silver","squad":{"id":716019,"name":"IDWR | Airdrop \u0026 Crypto Talk","slug":"Idwroff","logo":"https://cdn.joincommunity.xyz/api-clicker/tg/team-avatars/Idwroff_1727619023833.jpg","templateX":414,"templateY":261,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0,"speedPerSecond":0.0000245,"fromStart":7638,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":21,"userBalance":375.14062416666667,"activated":true,"league":"silver","charges":7,"maxCharges":7,"reChargeTimer":0,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":377.14062416667}
+
+200 {"balance":379.14062416667}
+
+200 {"balance":381.14062416667}
+
+200 {"balance":383.14062416667}
+
+200 {"balance":385.14062416667}
+
+200 {"balance":387.14062416667}
+
+200 {"balance":389.14062416667}
+
+200 {"coins":0.24119549999999995,"speedPerSecond":0.00003266666666666666,"fromStart":7661,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":28,"userBalance":389.14062416666667,"activated":true,"league":"silver","charges":0,"maxCharges":7,"reChargeTimer":517585,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"coins":0,"speedPerSecond":0.00003266666666666666,"fromStart":0,"fromUpdate":0,"maxMiningTime":28800,"claimed":0.25025933333333333,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":0,"userBalance":0,"activated":true,"league":"silver","charges":0,"maxCharges":0,"reChargeTimer":0,"reChargeSpeed":0,"goods":null,"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"id":7034523327,"firstName":"user 38","lastName":"not","balance":311,"repaints":21,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"silver","squad":{"id":716019,"name":"IDWR | Airdrop \u0026 Crypto Talk","slug":"Idwroff","logo":"https://cdn.joincommunity.xyz/api-clicker/tg/team-avatars/Idwroff_1727619023833.jpg","templateX":414,"templateY":261,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0,"speedPerSecond":0.0000245,"fromStart":7648,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":21,"userBalance":311.1902471666667,"activated":true,"league":"silver","charges":7,"maxCharges":7,"reChargeTimer":0,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":313.19024716667}
+
+200 {"balance":315.19024716667}
+
+200 {"balance":317.19024716667}
+
+200 {"balance":319.19024716667}
+
+200 {"balance":321.19024716667}
+
+200 {"balance":323.19024716667}
+
+200 {"balance":325.19024716667}
+
+200 {"coins":0.24157349999999994,"speedPerSecond":0.00003266666666666666,"fromStart":7672,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":28,"userBalance":325.1902471666667,"activated":true,"league":"silver","charges":0,"maxCharges":7,"reChargeTimer":516033,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"coins":0,"speedPerSecond":0.00003266666666666666,"fromStart":0,"fromUpdate":0,"maxMiningTime":28800,"claimed":0.25061866666666666,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":0,"userBalance":0,"activated":true,"league":"silver","charges":0,"maxCharges":0,"reChargeTimer":0,"reChargeSpeed":0,"goods":null,"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"id":6600769448,"firstName":"Vira Xiw","lastName":"not","balance":168,"repaints":14,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"silver","squad":{"id":716019,"name":"IDWR | Airdrop \u0026 Crypto Talk","slug":"Idwroff","logo":"https://cdn.joincommunity.xyz/api-clicker/tg/team-avatars/Idwroff_1727619023833.jpg","templateX":414,"templateY":261,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0,"speedPerSecond":0.00001633333333333333,"fromStart":7658,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":4,"reChargeSpeed":3},"repaintsTotal":14,"userBalance":168.06966166666666,"activated":true,"league":"silver","charges":7,"maxCharges":7,"reChargeTimer":0,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":170.56966166667}
+
+200 {"balance":173.06966166667}
+
+200 {"balance":175.56966166667}
+
+200 {"balance":178.06966166667}
+
+200 {"balance":180.56966166667}
+
+200 {"balance":183.06966166667}
+
+200 {"balance":185.56966166667}
+
+200 {"coins":0.17912999999999998,"speedPerSecond":0.0000245,"fromStart":7681,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":4,"reChargeSpeed":3},"repaintsTotal":21,"userBalance":185.56966166666666,"activated":true,"league":"silver","charges":0,"maxCharges":7,"reChargeTimer":517312,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"coins":0,"speedPerSecond":0.0000245,"fromStart":0,"fromUpdate":0,"maxMiningTime":28800,"claimed":0.1881845,"boosts":{"energyLimit":3,"paintReward":4,"reChargeSpeed":3},"repaintsTotal":0,"userBalance":0,"activated":true,"league":"silver","charges":0,"maxCharges":0,"reChargeTimer":0,"reChargeSpeed":0,"goods":null,"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"id":6815005262,"firstName":"Fifa Yulianto","lastName":"not","balance":375,"repaints":21,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"silver","squad":{"id":716019,"name":"IDWR | Airdrop \u0026 Crypto Talk","slug":"Idwroff","logo":"https://cdn.joincommunity.xyz/api-clicker/tg/team-avatars/Idwroff_1727619023833.jpg","templateX":414,"templateY":261,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0,"speedPerSecond":0.0000245,"fromStart":7651,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":21,"userBalance":375.1711045,"activated":true,"league":"silver","charges":7,"maxCharges":7,"reChargeTimer":0,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":377.1711045}
+
+200 {"balance":379.1711045}
+
+200 {"balance":381.1711045}
+
+200 {"balance":383.1711045}
+
+200 {"balance":385.1711045}
+
+200 {"balance":387.1711045}
+
+200 {"balance":389.1711045}
+
+200 {"coins":0.24160499999999996,"speedPerSecond":0.00003266666666666666,"fromStart":7673,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":28,"userBalance":389.1711045,"activated":true,"league":"silver","charges":0,"maxCharges":7,"reChargeTimer":517667,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"coins":0,"speedPerSecond":0.00003266666666666666,"fromStart":0,"fromUpdate":0,"maxMiningTime":28800,"claimed":0.25068399999999996,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":0,"userBalance":0,"activated":true,"league":"silver","charges":0,"maxCharges":0,"reChargeTimer":0,"reChargeSpeed":0,"goods":null,"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"id":6527365840,"firstName":"Mufeji Jib","lastName":"not","balance":23,"repaints":15,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"silver","squad":{"id":null,"name":null,"slug":null,"logo":null,"templateX":null,"templateY":null,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0,"speedPerSecond":0.0000175,"fromStart":7639,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":15,"userBalance":23.1076075,"activated":true,"league":"silver","charges":5,"maxCharges":5,"reChargeTimer":0,"reChargeSpeed":600000,"goods":{},"tasks":{}}
+
+200 {"balance":24.1076075}
+
+200 {"balance":25.1076075}
+
+200 {"balance":26.1076075}
+
+200 {"balance":27.1076075}
+
+200 {"balance":28.1076075}
+
+200 {"coins":0.1696415,"speedPerSecond":0.000023333333333333332,"fromStart":7656,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":20,"userBalance":28.1076075,"activated":true,"league":"silver","charges":0,"maxCharges":5,"reChargeTimer":583367,"reChargeSpeed":600000,"goods":{},"tasks":{}}
+
+200 {"coins":0,"speedPerSecond":0.000023333333333333332,"fromStart":0,"fromUpdate":0,"maxMiningTime":28800,"claimed":0.17864,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":0,"userBalance":0,"activated":true,"league":"silver","charges":0,"maxCharges":0,"reChargeTimer":0,"reChargeSpeed":0,"goods":null,"tasks":{}}
+
+200 {"id":6473440037,"firstName":"Oni Mama","lastName":"not","balance":168,"repaints":14,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"silver","squad":{"id":716019,"name":"IDWR | Airdrop \u0026 Crypto Talk","slug":"Idwroff","logo":"https://cdn.joincommunity.xyz/api-clicker/tg/team-avatars/Idwroff_1727619023833.jpg","templateX":414,"templateY":261,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0,"speedPerSecond":0.00001633333333333333,"fromStart":7632,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":4,"reChargeSpeed":3},"repaintsTotal":14,"userBalance":168.06946566666667,"activated":true,"league":"silver","charges":7,"maxCharges":7,"reChargeTimer":0,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":170.56946566667}
+
+200 {"balance":173.06946566667}
+
+200 {"balance":175.56946566667}
+
+200 {"balance":178.06946566667}
+
+200 {"balance":180.56946566667}
+
+200 {"balance":183.06946566667}
+
+200 {"balance":185.56946566667}
+
+200 {"coins":0.17854666666666666,"speedPerSecond":0.0000245,"fromStart":7656,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":4,"reChargeSpeed":3},"repaintsTotal":21,"userBalance":185.56946566666667,"activated":true,"league":"silver","charges":0,"maxCharges":7,"reChargeTimer":516873,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"coins":0,"speedPerSecond":0.0000245,"fromStart":0,"fromUpdate":0,"maxMiningTime":28800,"claimed":0.187572,"boosts":{"energyLimit":3,"paintReward":4,"reChargeSpeed":3},"repaintsTotal":0,"userBalance":0,"activated":true,"league":"silver","charges":0,"maxCharges":0,"reChargeTimer":0,"reChargeSpeed":0,"goods":null,"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"id":7320076449,"firstName":"Siti Putra","lastName":"not","balance":168,"repaints":14,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"silver","squad":{"id":716019,"name":"IDWR | Airdrop \u0026 Crypto Talk","slug":"Idwroff","logo":"https://cdn.joincommunity.xyz/api-clicker/tg/team-avatars/Idwroff_1727619023833.jpg","templateX":414,"templateY":261,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0,"speedPerSecond":0.00001633333333333333,"fromStart":7644,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":4,"reChargeSpeed":3},"repaintsTotal":14,"userBalance":168.06949833333334,"activated":true,"league":"silver","charges":7,"maxCharges":7,"reChargeTimer":0,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":170.56949833333}
+
+200 {"balance":173.06949833333}
+
+200 {"balance":175.56949833333}
+
+200 {"balance":178.06949833333}
+
+200 {"balance":180.56949833333}
+
+200 {"balance":183.06949833333}
+
+200 {"balance":185.56949833333}
+
+200 {"coins":0.17889666666666665,"speedPerSecond":0.0000245,"fromStart":7671,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":4,"reChargeSpeed":3},"repaintsTotal":21,"userBalance":185.56949833333334,"activated":true,"league":"silver","charges":0,"maxCharges":7,"reChargeTimer":513895,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"coins":0,"speedPerSecond":0.0000245,"fromStart":0,"fromUpdate":0,"maxMiningTime":28800,"claimed":0.18793949999999998,"boosts":{"energyLimit":3,"paintReward":4,"reChargeSpeed":3},"repaintsTotal":0,"userBalance":0,"activated":true,"league":"silver","charges":0,"maxCharges":0,"reChargeTimer":0,"reChargeSpeed":0,"goods":null,"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"id":6457032721,"firstName":"Eka Zan","lastName":"not","balance":658,"repaints":10,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"silver","squad":{"id":716019,"name":"IDWR | Airdrop \u0026 Crypto Talk","slug":"Idwroff","logo":"https://cdn.joincommunity.xyz/api-clicker/tg/team-avatars/Idwroff_1727619023833.jpg","templateX":414,"templateY":261,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0,"speedPerSecond":0.000011666666666666666,"fromStart":7664,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":10,"userBalance":658.0495483333333,"activated":true,"league":"silver","charges":5,"maxCharges":5,"reChargeTimer":0,"reChargeSpeed":600000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":659.04954833333}
+
+200 {"balance":660.04954833333}
+
+200 {"balance":661.04954833333}
+
+200 {"balance":662.04954833333}
+
+200 {"balance":663.04954833333}
+
+200 {"coins":0.12540733333333332,"speedPerSecond":0.0000175,"fromStart":7681,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":15,"userBalance":663.0495483333333,"activated":true,"league":"silver","charges":0,"maxCharges":5,"reChargeTimer":583610,"reChargeSpeed":600000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"coins":0,"speedPerSecond":0.0000175,"fromStart":0,"fromUpdate":0,"maxMiningTime":28800,"claimed":0.134435,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":0,"userBalance":0,"activated":true,"league":"silver","charges":0,"maxCharges":0,"reChargeTimer":0,"reChargeSpeed":0,"goods":null,"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"id":6250011479,"firstName":"Chai Wibowo","lastName":"not","balance":535,"repaints":15,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"silver","squad":{"id":null,"name":null,"slug":null,"logo":null,"templateX":null,"templateY":null,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0,"speedPerSecond":0.0000175,"fromStart":7652,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":15,"userBalance":535.2417275,"activated":true,"league":"silver","charges":5,"maxCharges":5,"reChargeTimer":0,"reChargeSpeed":600000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":536.2417275}
+
+200 {"balance":537.2417275}
+
+200 {"balance":538.2417275}
+
+200 {"balance":539.2417275}
+
+200 {"balance":540.2417275}
+
+200 {"coins":0.16992966666666665,"speedPerSecond":0.000023333333333333332,"fromStart":7669,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":20,"userBalance":540.2417275,"activated":true,"league":"silver","charges":0,"maxCharges":5,"reChargeTimer":583267,"reChargeSpeed":600000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"coins":0,"speedPerSecond":0.000023333333333333332,"fromStart":0,"fromUpdate":0,"maxMiningTime":28800,"claimed":0.17894333333333332,"boosts":{"energyLimit":1,"paintReward":1,"reChargeSpeed":1},"repaintsTotal":0,"userBalance":0,"activated":true,"league":"silver","charges":0,"maxCharges":0,"reChargeTimer":0,"reChargeSpeed":0,"goods":null,"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"id":6583224984,"firstName":"user 36","lastName":"not","balance":389,"repaints":28,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"silver","squad":{"id":716019,"name":"IDWR | Airdrop \u0026 Crypto Talk","slug":"Idwroff","logo":"https://cdn.joincommunity.xyz/api-clicker/tg/team-avatars/Idwroff_1727619023833.jpg","templateX":414,"templateY":261,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0,"speedPerSecond":0.00003266666666666666,"fromStart":4026,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":28,"userBalance":389.39088350000003,"activated":true,"league":"silver","charges":7,"maxCharges":7,"reChargeTimer":0,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":391.3908835}
+
+200 {"balance":393.3908835}
+
+200 {"balance":395.3908835}
+
+200 {"balance":397.3908835}
+
+200 {"balance":399.3908835}
+
+200 {"balance":401.3908835}
+
+200 {"balance":403.3908835}
+
+200 {"coins":0.16045166666666666,"speedPerSecond":0.000040833333333333334,"fromStart":4048,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":35,"userBalance":403.39088350000003,"activated":true,"league":"silver","charges":0,"maxCharges":7,"reChargeTimer":517626,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"coins":0,"speedPerSecond":0.000040833333333333334,"fromStart":0,"fromUpdate":0,"maxMiningTime":28800,"claimed":0.16533416666666667,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":0,"userBalance":0,"activated":true,"league":"silver","charges":0,"maxCharges":0,"reChargeTimer":0,"reChargeSpeed":0,"goods":null,"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"id":7034523327,"firstName":"user 38","lastName":"not","balance":325,"repaints":28,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"silver","squad":{"id":716019,"name":"IDWR | Airdrop \u0026 Crypto Talk","slug":"Idwroff","logo":"https://cdn.joincommunity.xyz/api-clicker/tg/team-avatars/Idwroff_1727619023833.jpg","templateX":414,"templateY":261,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0,"speedPerSecond":0.00003266666666666666,"fromStart":4044,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":28,"userBalance":325.44086583333336,"activated":true,"league":"silver","charges":7,"maxCharges":7,"reChargeTimer":0,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":327.44086583333}
+
+200 {"balance":329.44086583333}
+
+200 {"balance":331.44086583333}
+
+200 {"balance":333.44086583333}
+
+200 {"balance":335.44086583333}
+
+200 {"balance":337.44086583333}
+
+200 {"balance":339.44086583333}
+
+200 {"coins":0.161245,"speedPerSecond":0.000040833333333333334,"fromStart":4069,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":35,"userBalance":339.44086583333336,"activated":true,"league":"silver","charges":0,"maxCharges":7,"reChargeTimer":516593,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"coins":0,"speedPerSecond":0.000040833333333333334,"fromStart":0,"fromUpdate":0,"maxMiningTime":28800,"claimed":0.16615083333333333,"boosts":{"energyLimit":3,"paintReward":3,"reChargeSpeed":3},"repaintsTotal":0,"userBalance":0,"activated":true,"league":"silver","charges":0,"maxCharges":0,"reChargeTimer":0,"reChargeSpeed":0,"goods":null,"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"id":6600769448,"firstName":"Vira Xiw","lastName":"not","balance":185,"repaints":21,"score":null,"language":"en","friends":0,"intro":false,"userPic":"","league":"silver","squad":{"id":716019,"name":"IDWR | Airdrop \u0026 Crypto Talk","slug":"Idwroff","logo":"https://cdn.joincommunity.xyz/api-clicker/tg/team-avatars/Idwroff_1727619023833.jpg","templateX":414,"templateY":261,"players":null,"totalBalance":null,"totalRepaints":null,"scoredRepaints":null},"goods":null,"refLimit":0}
+
+200 {"coins":0,"speedPerSecond":0.0000245,"fromStart":4036,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":4,"reChargeSpeed":3},"repaintsTotal":21,"userBalance":185.75784616666667,"activated":true,"league":"silver","charges":7,"maxCharges":7,"reChargeTimer":0,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+200 {"balance":188.25784616667}
+
+200 {"balance":190.75784616667}
+
+200 {"balance":193.25784616667}
+
+200 {"balance":195.75784616667}
+
+200 {"balance":198.25784616667}
+
+200 {"balance":200.75784616667}
+
+200 {"balance":203.25784616667}
+
+200 {"coins":0.12776399999999996,"speedPerSecond":0.00003266666666666666,"fromStart":4059,"fromUpdate":0,"maxMiningTime":28800,"claimed":0,"boosts":{"energyLimit":3,"paintReward":4,"reChargeSpeed":3},"repaintsTotal":28,"userBalance":203.25784616666667,"activated":true,"league":"silver","charges":0,"maxCharges":7,"reChargeTimer":517422,"reChargeSpeed":540000,"goods":{},"tasks":{"channel:notcoin":true,"channel:notpixel_channel":true,"joinSquad":true,"makePixelAvatar":true,"x:notcoin":true,"x:notpixel":true}}
+
+504 upstream request timeout
+504 upstream request timeout
+504 upstream request timeout
